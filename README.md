@@ -10,8 +10,6 @@ Mickey Rafa
 <br />
 michael.rafa@du.edu
 <br />
-
-<br />
 <br />
 Essential R Libraries:
 <br />
